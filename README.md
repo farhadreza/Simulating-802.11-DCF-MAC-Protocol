@@ -1,5 +1,4 @@
 # Simulating-802.11-DCF-MAC-Protocol
- * Course: CSCE 575
  * Project: Simulating 802.11 DCF MAC (Phase 1)
  * Author: Md Farhadur Reza
  
